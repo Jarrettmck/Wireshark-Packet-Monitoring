@@ -18,29 +18,29 @@ In this Lab, I will be presenting the different data you can find with an inputt
 
 <p align="center">
 Open the Wireshark application and simply select the desired or investigated packet: <br/>
+<br />
 <img src="Screenshot 2025-05-27 223112.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+You can view the packet file details by clicking the statistics tab and then clicking on Capture File Properties (this shows the file details, time frame of packets, the capture, Interfaces used, and the capture file comments).  <br/>
+<br />
+<img src="Screenshot 2025-05-27 163918.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Navigate to the packet number and click on the packet time frame, payload size and other info: <br/>
+<br />
+<img src="Screenshot 2025-05-27 165425.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Export and save the file to look up the hash in the terminal via- md5sum (filename)  <br/>
+<br />
+<img src="Screenshot 2025-05-27 173259.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The error button will show the highest information level with the number of errors and warning that were tiggered:  <br/>
+<br />
+<img src="Screenshot 2025-05-27 174828.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
